@@ -1,5 +1,5 @@
 def encoder():
-	pass
+	print("Hello")
 
 def main():
 	pass
